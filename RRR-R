@@ -1,0 +1,21 @@
+Neuro-Fuzzy Approach representation of noisy data,while neural network tolerance(Model Free/representation of life saving knowledge/fuzzy logic/additional fuzzy rules/loose-tight coupling/transformational/independent/dependent/stand alone/limits/reliable/design time/cost.
+                                                                                 Fuzzification layer/Fuzzy Rule Layer/Defuzzification layer/
+                                                                                 Level Control/
+                                                                                 Perceptron/Public_Hopfield
+                                                                                 //Create connection panel
+                                                                                 JPanel connection=new J Panel();
+                                                                                 New GridLayout;(Network_Size;Network_Size);
+                                                                                 matrix<Row];{Column};
+                                                                                 connection.add(matrix-row;col);
+                                                                                 //Weight label;Hopfield Neural Network;
+                                                                                 //Input panel label;
+                                                                                 C.anchor=GridBagConstraints.Remainder;//end row;
+                                                                                 new J label("Click/"Train/"to train the following pattern:");\
+                                                                              String Options;
+                                                                                 [0,1];
+                                                                                 C.GRIDWIDTH(CIOMBOBOX.OPTIONS}
+                                                                                             //Resizable(TRUE)
+                                                                                             }
+                                                                                             }
+                                                                                             }
+                                                                                             
